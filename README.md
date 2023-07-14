@@ -32,6 +32,7 @@
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.github.com/AVIKBHANJA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/avik_bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avik_bhanja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avik-bhanja-0b7606251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik-bhanja-0b7606251" height="30" width="40" /></a>
 <a href="https://fb.com/avik bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avik bhanja" height="30" width="40" /></a>
@@ -41,6 +42,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
