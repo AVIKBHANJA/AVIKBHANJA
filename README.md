@@ -24,7 +24,7 @@
   <a href="https://github.com/AVIKBHANJA" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/AVIKBHANJA?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
-<a href="https://www.twitter.com/avik_bhanja" target="_blank" rel="noreferrer">
+<a href="https://twitter.com/avik_bhanja" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/avik_bhanja?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
 
