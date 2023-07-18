@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avik Bhanja</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+![banner](https://github.com/AVIKBHANJA/AVIKBHANJA/blob/master/Banner.png)
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 <p align="center"> Visitor count</p>
 <p align="center">
