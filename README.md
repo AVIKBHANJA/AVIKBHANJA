@@ -15,7 +15,8 @@
 
 - 🌍 I’m from **Kolkata🏠**
 - 🎓 I’m currently **Pursuing B.Tech from Heritage Institute of Technology🏫**
-- 🌱 I’m currently learning **Front-End Web Development**
+- **Full Stack Web Developer**
+- 🌱 I’m currently learning **Hybrid Mobile App Development**
 
 - 📫 How to reach me **avikbhanja3@gmail.com**
 - 😄 Pronouns: **He/Him**
