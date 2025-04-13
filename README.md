@@ -11,7 +11,7 @@
 
 
 
-
+[![An image of @avikbhanja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avikbhanja)](https://holopin.io/@avikbhanja)
 
 - 🌍 I’m from **Kolkata🏠**
 - 🎓 I’m currently **Pursuing B.Tech from Heritage Institute of Technology🏫**
