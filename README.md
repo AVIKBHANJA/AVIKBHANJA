@@ -4,10 +4,6 @@
 ![banner](https://github.com/AVIKBHANJA/AVIKBHANJA/blob/master/Banner.png)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
-<p align="center"> Visitor count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{AVIKBHANJA}/count.svg" alt="AVIKBHANJA :: Visitor's Count" />
-</p>
 
 
 
