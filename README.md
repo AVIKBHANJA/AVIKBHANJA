@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avik Bhanja</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer specializing in Next.js, TypeScript & AI-integrated Web Apps</h3>
 
 ![banner](https://github.com/AVIKBHANJA/AVIKBHANJA/blob/master/Banner.png)
 
@@ -13,14 +13,11 @@
 
 [![An image of @avikbhanja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avikbhanja)](https://holopin.io/@avikbhanja)
 
-- 🌍 I’m from **Kolkata🏠**
-- 🎓 I’m currently **Pursuing B.Tech from Heritage Institute of Technology🏫**
-- **Full Stack Web Developer**
-- 🌱 I’m currently learning **Hybrid Mobile App Development**
-
-- 📫 How to reach me **avikbhanja3@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ **I live on Caffeine**
+- 👋 Hi there! I’m Avik — a Full Stack Developer from Kolkata, India.  
+- 🎓 B.Tech (CSE) @ Heritage Institute of Technology  
+- 💻 Building Full Stack web apps with Next.js, TypeScript & Node.js  
+- 📱 Currently exploring React Native for hybrid app development 
+- 📬 Reach me at: avikbhanja.dev@gmail.com 
 
 
 
